@@ -1,0 +1,21 @@
+"behaviour":{
+"apistats": {
+            "1800": {
+                "NtQueryValueKey": 1,
+                "NtQuerySystemInformation": 1,
+                "FindResourceExA": 1,
+                "GetSystemTimeAsFileTime": 1,
+                "LdrUnloadDll": 1,
+                "NtOpenKey": 1,
+                "NtUnmapViewOfSection": 2,
+                "LdrGetProcedureAddress": 18,
+                "SetUnhandledExceptionFilter": 2,
+                "__exception__": 1,
+                "NtTerminateProcess": 3,
+                "NtClose": 5,
+                "NtAllocateVirtualMemory": 5,
+                "LdrGetDllHandle": 14,
+                "NtFreeVirtualMemory": 2
+            }
+        }
+
